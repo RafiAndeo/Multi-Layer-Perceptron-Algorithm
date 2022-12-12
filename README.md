@@ -377,53 +377,6 @@ Seaborn development takes place on Github: https://github.com/mwaskom/seaborn
 
 Please submit bugs that you encounter to the [issue tracker](https://github.com/mwaskom/seaborn/issues) with a reproducible example demonstrating the problem. Questions about usage are more at home on StackOverflow, where there is a [seaborn tag](https://stackoverflow.com/questions/tagged/seaborn).
 
-
-.. -*- mode: rst -*-
-
-|Azure|_ |Travis|_ |Codecov|_ |CircleCI|_ |Nightly wheels|_ |Black|_ |PythonVersion|_ |PyPi|_ |DOI|_ |Benchmark|_
-
-.. |Azure| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
-.. _Azure: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
-
-.. |CircleCI| image:: https://circleci.com/gh/scikit-learn/scikit-learn/tree/main.svg?style=shield&circle-token=:circle-token
-.. _CircleCI: https://circleci.com/gh/scikit-learn/scikit-learn
-
-.. |Travis| image:: https://api.travis-ci.com/scikit-learn/scikit-learn.svg?branch=main
-.. _Travis: https://app.travis-ci.com/github/scikit-learn/scikit-learn
-
-.. |Codecov| image:: https://codecov.io/gh/scikit-learn/scikit-learn/branch/main/graph/badge.svg?token=Pk8G9gg3y9
-.. _Codecov: https://codecov.io/gh/scikit-learn/scikit-learn
-
-.. |Nightly wheels| image:: https://github.com/scikit-learn/scikit-learn/workflows/Wheel%20builder/badge.svg?event=schedule
-.. _`Nightly wheels`: https://github.com/scikit-learn/scikit-learn/actions?query=workflow%3A%22Wheel+builder%22+event%3Aschedule
-
-.. |PythonVersion| image:: https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue
-.. _PythonVersion: https://pypi.org/project/scikit-learn/
-
-.. |PyPi| image:: https://img.shields.io/pypi/v/scikit-learn
-.. _PyPi: https://pypi.org/project/scikit-learn
-
-.. |Black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
-.. _Black: https://github.com/psf/black
-
-.. |DOI| image:: https://zenodo.org/badge/21369/scikit-learn/scikit-learn.svg
-.. _DOI: https://zenodo.org/badge/latestdoi/21369/scikit-learn/scikit-learn
-
-.. |Benchmark| image:: https://img.shields.io/badge/Benchmarked%20by-asv-blue
-.. _`Benchmark`: https://scikit-learn.org/scikit-learn-benchmarks/
-
-.. |PythonMinVersion| replace:: 3.8
-.. |NumPyMinVersion| replace:: 1.17.3
-.. |SciPyMinVersion| replace:: 1.3.2
-.. |JoblibMinVersion| replace:: 1.1.1
-.. |ThreadpoolctlMinVersion| replace:: 2.0.0
-.. |MatplotlibMinVersion| replace:: 3.1.3
-.. |Scikit-ImageMinVersion| replace:: 0.16.2
-.. |PandasMinVersion| replace:: 1.0.5
-.. |SeabornMinVersion| replace:: 0.9.0
-.. |PytestMinVersion| replace:: 5.3.1
-.. |PlotlyMinVersion| replace:: 5.10.0
-
 .. image:: https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png
   :target: https://scikit-learn.org/
 
