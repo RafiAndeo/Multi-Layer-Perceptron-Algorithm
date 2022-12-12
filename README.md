@@ -174,7 +174,6 @@ As contributors and maintainers to this project, you are expected to abide by pa
 <img src="/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
-
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
 https://numfocus.org)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
@@ -381,7 +380,6 @@ Please submit bugs that you encounter to the [issue tracker](https://github.com/
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"><br>
 </div>
 
-.. image:: https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png
   :target: https://scikit-learn.org/
 
 **scikit-learn** is a Python module for machine learning built on top of
